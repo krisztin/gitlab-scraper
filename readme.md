@@ -14,12 +14,12 @@ Create a simple scraper node script with `Cheerio` looking for the desired posit
 
 **MVP**
 
-- [ ] Scrape the site for BSA openings
-- [ ] If there is a match send an alert email
-- [ ] Cron job running every week
+- [x] Scrape the site for BSA openings
+- [x] If there is a match send an alert email
+- [x] Cron job running every week
 
 **TBA**
 
 - [ ] Email to send the link(s) to the open position(s)
-- [ ] Hide login details
+- [x] Hide login details
 - [ ] Switch from Gmail to own email
