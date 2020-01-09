@@ -10,16 +10,16 @@ Weekly cron job looking for Business Systems Analyst(BSA) job openings.
 
 ## The solution
 
-Create a simple scraper looking for the desired positions.
+Create a simple scraper node script with `Cheerio` looking for the desired positions and then sending an email with `Nodemailer` to the candidate. Set it up to run every week with `Nodecron`.
 
 **MVP**
 
-- Scrape the site for BA openings
-- If there is a match send an alert email
-- Cron job running every week
+- [ ] Scrape the site for BSA openings
+- [ ] If there is a match send an alert email
+- [ ] Cron job running every week
 
 **TBA**
 
-- Email to send the link(s) to the open position(s)
-- Hide login details
-- Switch from Gmail to own email
+- [ ] Email to send the link(s) to the open position(s)
+- [ ] Hide login details
+- [ ] Switch from Gmail to own email
