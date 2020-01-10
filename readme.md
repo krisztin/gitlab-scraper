@@ -2,6 +2,8 @@
 
 Weekly cron job looking for Business Systems Analyst(BSA) job openings.
 
+:link: [Linked to issue #7: No email alerts...](https://gitlab.com/the-nagy-branch/merge-request/issues/7)
+
 ## Problem
 
 - No current BSA openings
